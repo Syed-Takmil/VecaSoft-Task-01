@@ -35,10 +35,15 @@ Ensure you have **Node.js** (v18 or higher) and **npm** or **yarn** installed.
 
 
 1.**Install dependencies:**
+```bash
 npm install
+
 2.**Start the development server:**
+```bash
 npm run dev
 # or
 npm start
+
 3.Open in browser:
+```bash
 Navigate to http://localhost:3000 (or http://localhost:5173 for Vite).
