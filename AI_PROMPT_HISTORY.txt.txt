@@ -1,0 +1,4 @@
+1.Screenshots 
+2.u have added alert () i want modals/dialogs for pop ups
+3. brieff setup or run instructions in readme
+4. keeping main backbone unchanged ,make it more lively and  if possible add loading.jsx

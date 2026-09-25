@@ -32,3 +32,13 @@ Ensure you have **Node.js** (v18 or higher) and **npm** or **yarn** installed.
    ```bash
    git clone [https://github.com/Syed-Takmil/VecaSoft-Task-01](https://github.com/Syed-Takmil/VecaSoft-Task-01)
    cd your-repo-name
+
+
+1.**Install dependencies:**
+npm install
+2.**Start the development server:**
+npm run dev
+# or
+npm start
+3.Open in browser:
+Navigate to http://localhost:3000 (or http://localhost:5173 for Vite).
